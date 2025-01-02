@@ -54,6 +54,9 @@ public class ErailRestController {
 	    	 }
 	    	return null; 
 	     }
-      }
-
+    
+public String save() {
+	return null;
+}
+}
 
